@@ -1,0 +1,50 @@
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/appsettings.Development.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/appsettings.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Digital Assesment
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Digital Assesment.deps.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Digital Assesment.runtimeconfig.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Digital Assesment.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Digital Assesment.pdb
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/JsonConverter.Abstractions.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Npgsql.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/SQLConnection.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.csproj.AssemblyReference.cache
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.AssemblyInfoInputs.cache
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.AssemblyInfo.cs
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.MvcApplicationPartsAssemblyInfo.cs
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.MvcApplicationPartsAssemblyInfo.cache
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets/msbuild.Digital Assesment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets/msbuild.build.Digital Assesment.props
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Digital Assesment.props
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Digital Assesment.props
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/scopedcss/bundle/Digital Assesment.styles.css
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.csproj.CopyComplete
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/refint/Digital Assesment.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.pdb
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/Digital Assesment.genruntimeconfig.cache
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/obj/Debug/net7.0/ref/Digital Assesment.dll
+/Users/ei-lap-8462/Desktop/DotNet/Digital Assesment/Digital Assesment/bin/Debug/net7.0/Dapper.dll
